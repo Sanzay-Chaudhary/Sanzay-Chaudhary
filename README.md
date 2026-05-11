@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @Sanzay-Chaudhary.
-- 👀 I've got my sights set on app development, and I've already dipped my toes into Flutter.
-- 🌱 I’m currently learning B.Sc. CSIT.
-- 💞️ I’m looking to collaborate on app development.
-- 📫 Feel free to reach out to me via email at kctsanzu@gmail.com. I'm always open to collaboration and excited to connect with fellow developers!
-- 😄 You can refer to me using any pronouns you're comfortable with.
-- ⚡  Did you know that Flutter, born in May 2017, has revolutionized app development with its versatility and performance across various platforms? Let's create something amazing together!"!
+# 👋 Hi, I’m @Sanzay-Chaudhary
 
-<!---
-Sanzay-Chaudhary/Sanzay-Chaudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 👀 I’m passionate about **Software Testing & QA Automation**.
+* 🌱 Currently learning **Playwright with Python**, API Testing, and Automation Frameworks.
+* 🎓 Completed **B.Sc. CSIT** while building real-world QA projects.
+* 💡 Interested in:
+
+  * Automated Testing
+  * Web Testing
+  * API Testing
+  * Bug Reporting
+  * Test Case Design
+* 🛠️ Tech Stack:
+
+  * Python
+  * Playwright
+  * Selenium
+  * Pytest
+  * Git & GitHub
+  * Postman
+* 💞️ Looking to collaborate on **QA Automation** and testing projects.
+* 📫 Reach me at [sanjaykc231@gmail.com](mailto:sanjaykc231@gmail.com)
+* 😄 Pronouns: Any pronouns are fine with me.
+* ⚡ Fun Fact: Great QA engineers don’t just find bugs — they help build better products through quality, automation, and continuous improvement!
